@@ -2,6 +2,8 @@
 fetch returns a 400 Bad Request upon POST to https://stacks-node-api.mainnet.stacks.co/v2/fees/transaction
 
 ### response result
+
+```
 Response {
   size: 0,
   timeout: 0,
@@ -27,3 +29,4 @@ Response {
     counter: 0
   }
 }
+```
